@@ -1,0 +1,14 @@
+#menu {
+display: flex;
+justify-content: space-evenly;
+background-color: blue;
+
+}
+
+.hyperlink {
+    text-decoration: none;
+    color: red;
+    font-size: 25px;
+    padding: 10px;
+    margin: 20px;
+}
