@@ -4,6 +4,11 @@ justify-content: space-evenly;
 background-color: blue;
 
 }
+body{
+
+    display: flex;
+    flex-direction: column;
+}
 
 .hyperlink {
     text-decoration: none;
@@ -44,4 +49,10 @@ background-color: blue;
 
 #bas{
     background-color: aquamarine;
+}
+
+
+main {
+
+    height: 100vh;
 }
