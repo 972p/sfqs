@@ -12,3 +12,36 @@ background-color: blue;
     padding: 10px;
     margin: 20px;
 }
+.hyperlink:hover {
+
+    background-color: aliceblue;
+}
+
+.JoinButton {
+
+    width: 10em;
+  height: 5ex;
+  background-color: gold;
+  border: 2px solid firebrick;
+  border-radius: 10px;
+  font-weight: bold;
+  color: black;
+  cursor: pointer;
+}
+.JoinButton:hover{
+
+    background-color: white;
+}
+
+.hyperbas:hover{
+    text-decoration: none;
+    color: red;
+    font-size: 25px;
+    padding: 10px;
+    margin: 20px;
+    background-color: black;
+}
+
+#bas{
+    background-color: aquamarine;
+}
